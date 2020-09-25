@@ -1,5 +1,5 @@
-# Julia Beginners
-Coursera guided project on Julia for Beginners in Data Science
+# Coursera guided project on Julia for Beginners in Data Science
+
 
 ### About the Data:
 
