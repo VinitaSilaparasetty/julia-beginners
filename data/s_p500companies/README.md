@@ -3,10 +3,13 @@
 
 ### About the Data:
 
-These forecasts are based on 100,000 simulations of the rest of the season. Our player-based RAPTOR forecast doesn’t account for wins and losses; it is based entirely on our NBA player projections, which estimate each player’s future performance based on the trajectory of similar NBA players. These are combined with up-to-date depth charts — tracking injuries, trades and other player transactions — to generate talent estimates for each team. A team’s full-strength rating assumes all of its key players are in the lineup. A team’s current rating reflects any injuries and rest days in effect at the moment of the team's next game. Elo ratings — which power the pure Elo forecast — are a measure of team strength based on head-to-head results, margin of victory and quality of opponent. Read more »
+List of companies in the S&P 500 (Standard and Poor’s 500). The S&P 500 is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap). The dataset includes a list of all the stocks contained therein and associated key financials such as price, market capitalization, earnings, price/earnings ratio, price to book etc.
 
-Design and development by Jay Boice, Rachael Dottle, Ella Koeze and Gus Wezerek. Statistical model by Nate Silver, Jay Boice and Neil Paine. Marc Finn and Andres Waters contributed research. Illustration by Elias Stein.
+## Source:DataHub.io
 
-## Source:FiveThirtyEight
+Source link: https://datahub.io/core/s-and-p-500-companies-financials
 
-Source link: https://projects.fivethirtyeight.com/2020-nba-predictions/
+### Modifications:
+
+1) First 4 rows have been duplicated for teaching purposes.
+2)The column 'SEC_Filings' is empty for teaching purposes.
