@@ -1,31 +1,31 @@
 Symbol,Name,Sector,Price,Price/Earnings,Dividend Yield,Earnings/Share,52 Week Low,52 Week High,Market Cap,EBITDA,Price/Sales,Price/Book,SEC Filings
-MMM,3M Company,Industrials,222.89,24.31,2.3328617,7.92,259.77,175.49,138721055226,9048000000,4.3902707,11.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
-AOS,A.O. Smith Corp,Industrials,60.24,27.76,1.1479592,1.7,68.39,48.925,10783419933,601000000,3.5754826,6.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AOS
-ABT,Abbott Laboratories,Health Care,56.27,22.51,1.9089824,0.26,64.6,42.28,102121042306,5744000000,3.7404804,3.19,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT
-ABBV,AbbVie Inc.,Health Care,108.48,19.41,2.4995599,3.29,125.86,60.05,181386347059,10310000000,6.291571,26.14,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV
-ACN,Accenture plc,Information Technology,150.51,25.47,1.7144699,5.44,162.6,114.82,98765855553,5643228000,2.604117,10.62,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
-ATVI,Activision Blizzard,Information Technology,65.83,31.8,0.43190324,1.28,74.945,38.93,52518668144,2704000000,10.59512,5.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ATVI
-AYI,Acuity Brands Inc,Industrials,145.41,18.22,0.35118526,7.43,225.36,142,6242377704,587800000,1.7953473,3.55,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AYI
-ADBE,Adobe Systems Inc,Information Technology,185.16,52.31,0,3.39,204.45,114.451,94550214268,2538040000,13.092818,11.06,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
-AAP,Advance Auto Parts,Consumer Discretionary,109.63,19.54,0.21832074,6.19,169.55,78.81,8123611867,853941000,1.1301061,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAP
-AMD,Advanced Micro Devices Inc,Information Technology,11.22,187,0,0.03,15.65,9.7,11191663795,339000000,2.1091955,21.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD
-AES,AES Corp,Utilities,10.06,9.96,4.961832,-1.72,12.05,10,6920851212,3001000000,0.65951383,2.2,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AES
-AET,Aetna Inc,Health Care,178,18.11,1.101989,5.75,194.4,119.51,59197016353,4139000000,0.9923546,3.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AET
-AMG,Affiliated Managers Group Inc,Financials,179.11,12.24,0.6387395,12.07,216.995,148.81,10442174371,1261400000,4.591235,2.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMG
-AFL,AFLAC Inc,Financials,83.25,12.24,2.4299066,11.01,91.73,68.8,33422948000,0,1.5429344,1.53,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
-A,Agilent Technologies Inc,Health Care,65.05,27.45,0.8756979,2.1,75,49.23,21984606918,1094000000,6.493563,4.56,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
-APD,Air Products & Chemicals Inc,Materials,152.8,24.22,2.7811136,13.66,175.17,133.6301,34638387128,2542500000,4.1163683,3.35,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APD
-AKAM,Akamai Technologies Inc,Information Technology,62.49,32.55,0,1.79,69.56,44.65,10906904066,789517000,5.8546524,3.25,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AKAM
-ALK,Alaska Air Group Inc,Industrials,64.04,9.66,1.9928383,8.28,101.43,59.25,7903173734,1665000000,0.9801092,2.21,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALK
-ALB,Albemarle Corp,Materials,105.18,26.03,1.2004126,5.66,144.99,90.35,11782151266,686030000,5.3666205,2.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALB
-ARE,Alexandria Real Estate Equities Inc,Real Estate,114.58,19.03,3.0262272,1.57,134.37,106.89,12043374429,0,10.492155,2.07,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ARE
-ALXN,Alexion Pharmaceuticals,Health Care,108.47,22.18,0,1.77,149.34,96.18,26172439795,1072000000,9.720562,2.82,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALXN
-ALGN,Align Technology,Health Care,220.71,56.59,0,2.84,287.32,92.61,18788041378,380326000,13.138819,16.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALGN
-ALLE,Allegion,Industrials,77.32,21.07,0.8004002,2.37,89.81,66.72,7599609494,531800000,4.265232,20.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALLE
-AGN,"Allergan, Plc",Health Care,164.2,10.65,1.643289,38.35,256.8,160.07,56668833898,-2888100000,4.820115,0.83,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AGN
-ADS,Alliance Data Systems,Information Technology,240.6,13.02,0.9240122,14.13,278.33,209,13632608582,2143200000,1.7282298,8.28,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADS
-LNT,Alliant Energy Corp,Utilities,37.14,19.86,3.5733333,1.65,45.55,36.84,8670163500,1168400000,3.4331481,2.13,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LNT
-ALL,Allstate Corp,Financials,90.06,13.26,1.5278208,4.68,105.36,77.73,34759468905,0,1.2085556,1.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ALL
+MMM,3M Company,Industrials,222.89,24.31,2.3328617,7.92,259.77,175.49,138721055226,9048000000,4.3902707,11.34,
+AOS,A.O. Smith Corp,Industrials,60.24,27.76,1.1479592,1.7,68.39,48.925,10783419933,601000000,3.5754826,6.35,
+ABT,Abbott Laboratories,Health Care,56.27,22.51,1.9089824,0.26,64.6,42.28,102121042306,5744000000,3.7404804,3.19,
+ABBV,AbbVie Inc.,Health Care,108.48,19.41,2.4995599,3.29,125.86,60.05,181386347059,10310000000,6.291571,26.14,
+ACN,Accenture plc,Information Technology,150.51,25.47,1.7144699,5.44,162.6,114.82,98765855553,5643228000,2.604117,10.62,
+ATVI,Activision Blizzard,Information Technology,65.83,31.8,0.43190324,1.28,74.945,38.93,52518668144,2704000000,10.59512,5.16,
+AYI,Acuity Brands Inc,Industrials,145.41,18.22,0.35118526,7.43,225.36,142,6242377704,587800000,1.7953473,3.55,
+ADBE,Adobe Systems Inc,Information Technology,185.16,52.31,0,3.39,204.45,114.451,94550214268,2538040000,13.092818,11.06,
+AAP,Advance Auto Parts,Consumer Discretionary,109.63,19.54,0.21832074,6.19,169.55,78.81,8123611867,853941000,1.1301061,2.51,
+AMD,Advanced Micro Devices Inc,Information Technology,11.22,187,0,0.03,15.65,9.7,11191663795,339000000,2.1091955,21.47,
+AES,AES Corp,Utilities,10.06,9.96,4.961832,-1.72,12.05,10,6920851212,3001000000,0.65951383,2.2,
+AET,Aetna Inc,Health Care,178,18.11,1.101989,5.75,194.4,119.51,59197016353,4139000000,0.9923546,3.79,
+AMG,Affiliated Managers Group Inc,Financials,179.11,12.24,0.6387395,12.07,216.995,148.81,10442174371,1261400000,4.591235,2.89,
+AFL,AFLAC Inc,Financials,83.25,12.24,2.4299066,11.01,91.73,68.8,33422948000,0,1.5429344,1.53,
+A,Agilent Technologies Inc,Health Care,65.05,27.45,0.8756979,2.1,75,49.23,21984606918,1094000000,6.493563,4.56,
+APD,Air Products & Chemicals Inc,Materials,152.8,24.22,2.7811136,13.66,175.17,133.6301,34638387128,2542500000,4.1163683,3.35,
+AKAM,Akamai Technologies Inc,Information Technology,62.49,32.55,0,1.79,69.56,44.65,10906904066,789517000,5.8546524,3.25,
+ALK,Alaska Air Group Inc,Industrials,64.04,9.66,1.9928383,8.28,101.43,59.25,7903173734,1665000000,0.9801092,2.21,
+ALB,Albemarle Corp,Materials,105.18,26.03,1.2004126,5.66,144.99,90.35,11782151266,686030000,5.3666205,2.98,
+ARE,Alexandria Real Estate Equities Inc,Real Estate,114.58,19.03,3.0262272,1.57,134.37,106.89,12043374429,0,10.492155,2.07,
+ALXN,Alexion Pharmaceuticals,Health Care,108.47,22.18,0,1.77,149.34,96.18,26172439795,1072000000,9.720562,2.82,
+ALGN,Align Technology,Health Care,220.71,56.59,0,2.84,287.32,92.61,18788041378,380326000,13.138819,16.44,
+ALLE,Allegion,Industrials,77.32,21.07,0.8004002,2.37,89.81,66.72,7599609494,531800000,4.265232,20.48,
+AGN,"Allergan, Plc",Health Care,164.2,10.65,1.643289,38.35,256.8,160.07,56668833898,-2888100000,4.820115,0.83,
+ADS,Alliance Data Systems,Information Technology,240.6,13.02,0.9240122,14.13,278.33,209,13632608582,2143200000,1.7282298,8.28,
+LNT,Alliant Energy Corp,Utilities,37.14,19.86,3.5733333,1.65,45.55,36.84,8670163500,1168400000,3.4331481,2.13,
+ALL,Allstate Corp,Financials,90.06,13.26,1.5278208,4.68,105.36,77.73,34759468905,0,1.2085556,1.67,
 GOOGL,Alphabet Inc Class A,Information Technology,1007.71,31.48,0,22.27,1198,824.3,733823966137,34217000000,6.801692,4.7,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL
 GOOG,Alphabet Inc Class C,Information Technology,1001.52,40.29,0,22.27,1186.89,803.1903,728535558140,32714000000,6.772653,4.67,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOG
 MO,Altria Group Inc,Consumer Staples,64.05,18.89,3.9526875,5.31,77.79,60.01,126985101434,10773000000,4.945682,10.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MO
