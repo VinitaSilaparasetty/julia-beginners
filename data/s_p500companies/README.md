@@ -12,4 +12,5 @@ Source link: https://datahub.io/core/s-and-p-500-companies-financials
 ### Modifications:
 
 1) First 4 rows have been duplicated for teaching purposes.
+
 2)The column 'SEC_Filings' is empty for teaching purposes.
